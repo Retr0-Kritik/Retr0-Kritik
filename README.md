@@ -1,5 +1,5 @@
 Hi there 👋
-It's Retr0, dabbling in a bit of everything everyday
+It's Retr0, dabbling in a bit of everything everyday,
 AI/ML
 
 🌱 I’m currently learning Web Dev
